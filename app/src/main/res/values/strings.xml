@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="inapp_success_meaage">Subscription activated, Enjoy! Please Restart the App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Coming Soon!</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="card_bg">card_background</string>
+    <string name="continue_with_google">Continue with Google</string>
+
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="begin_tracking_your_expenses_by_n_setting_up_your_account">Begin tracking your expenses by\n setting up your account!!</string>
+    <string name="budget_manager">Budget Manager</string>
+    <string name="already_have_account">Already have account!</string>
+    <string name="login">Login</string>
+    <string name="start">Start!</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="expense">Expense</string>
+    <string name="comparison_chart">Comparison Chart</string>
+
+    <string name="please_wait">Please Wait …</string>
+    <string name="expense_manager">Expense Manager</string>
+    <string name="skip">Skip</string>
+
+    <string name="cancel_subscription_url">https://support.google.com/googleplay/answer/7018481</string>
+    <string name="cancel_any_time">Cancel anytime in the Play Store at no additional cost, your subscription will then cease at the end of the current term.</string>
+    <string name="terms_conditions"><u><![CDATA[Terms & Conditions]]></u></string>
+    <string name="restore"><u>Restore</u></string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+
+</resources>

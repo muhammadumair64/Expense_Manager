@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_color">#101420</color>
+    <color name="light_Text">#ADADAD</color>
+
+    <!-- colors for dar theme and light theme -->
+    <color name="textColor">#FF000000</color>
+    <color name="cardClr">#FFFFFFFF</color>
+    <color name="ad_bg_color">#F6F6F6</color>
+    <color name="ad_border">#EDECEC</color>
+
+    <color name="primary">#894BF9</color>
+
+    <color name="gradient_start">#7F3CFF</color>
+    <color name="gradient_end">#D430FF</color>
+
+    <color name="food_color">#FFA964</color>
+
+    <color name="blue_text">#406AFF</color>
+    <color name="add_new_categories">#52A1FF</color>
+
+    <color name="green_bar">#02AF47</color>
+    <color name = "red_bar">#FF4A4A</color>
+
+    <color name="yellow">#FF9530</color>
+
+    <color name="bacground_blur">#39000000</color>
+
+    <color name="shimmer_effect_color">#BFBDBD</color>
+</resources>

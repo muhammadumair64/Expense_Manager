@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138054868476",
+    "project_id": "expense-manager-5e843",
+    "storage_bucket": "expense-manager-5e843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138054868476:android:6e98d7d868ff666a77e679",
+        "android_client_info": {
+          "package_name": "com.budgetplanner.expensetracker.managermoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138054868476-b064aqjtq52is8s5l17f882ana04t2qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budgetplanner.expensetracker.managermoney",
+            "certificate_hash": "7775e7599fbc37a83f8aa35c0ccba07e0ab135eb"
+          }
+        },
+        {
+          "client_id": "138054868476-89kluka8eltdjpn7rpf40hv0afpmm68b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOz3pEFBgix2tiDcVpW9fliZV61kWgBC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138054868476-7l23hh1drr38ju56sceakhq3lk4g3o09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

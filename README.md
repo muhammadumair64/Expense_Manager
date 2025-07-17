@@ -1,1 +1,2 @@
 # Budget-Expense-Manager
+Expense Tracker is a modern Android app designed to help users manage their finances effortlessly. Built with MVVM architecture, it ensures a clean and maintainable codebase. The app features a clean and intuitive UI following modern design best practices, real-time expense tracking, category-wise breakdowns, and interactive graphs to visualize spending patterns. Stay on top of your budget with a smooth and user-friendly experience.
